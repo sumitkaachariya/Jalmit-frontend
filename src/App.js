@@ -10,7 +10,7 @@ import Header from './component/Header';
 import NotFound from './component/NotFound/NotFound';
 
 function App() {
-  return (
+  return ( 
     <div>
       <Header />
       <Routes>
